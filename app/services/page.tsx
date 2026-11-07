@@ -235,7 +235,7 @@ export default function Services() {
                                         </div>
                                         <div className="ps-3">
                                             <span className="text-400 fs-5">Phone Number</span>
-                                            <h6 className="mb-0">+1-234-567-8901</h6>
+                                            <h6 className="mb-0">+254712746218</h6>
                                         </div>
                                         <Link href="/tel:+1-234-567-8901" className="position-absolute top-0 start-0 w-100 h-100" />
                                     </div>
@@ -245,7 +245,7 @@ export default function Services() {
                                         </div>
                                         <div className="ps-3">
                                             <span className="text-400 fs-5">Email</span>
-                                            <h6 className="mb-0">contact@william.design</h6>
+                                            <h6 className="mb-0">hello@akimathi.com</h6>
                                         </div>
                                         <Link href="/mailto:someone@example.com" className="position-absolute top-0 start-0 w-100 h-100" />
                                     </div>
@@ -255,7 +255,7 @@ export default function Services() {
                                         </div>
                                         <div className="ps-3">
                                             <span className="text-400 fs-5">Skype</span>
-                                            <h6 className="mb-0">WilliamDesignUX</h6>
+                                            <h6 className="mb-0">kimathinet</h6>
                                         </div>
                                         <Link href="/skype:SKYPENAME?add" className="position-absolute top-0 start-0 w-100 h-100" />
                                     </div>
@@ -265,7 +265,7 @@ export default function Services() {
                                         </div>
                                         <div className="ps-3">
                                             <span className="text-400 fs-5">Address</span>
-                                            <h6 className="mb-0">0811 Erdman Prairie, Joaville CA</h6>
+                                            <h6 className="mb-0">Nairobi, Kenya</h6>
                                         </div>
                                         <Link href="/https://maps.google.com/maps?q=1st+avenue,New+York" className="position-absolute top-0 start-0 w-100 h-100" />
                                     </div>
