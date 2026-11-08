@@ -10,6 +10,11 @@ import Static1 from "@/components/sections/Static1"
 import Resume1 from "@/components/sections/Resume1"
 import Testimonials1 from "@/components/sections/Testimonials1"
 
+// @next-codemod-ignore Cache Components adoption: this segment temporarily allows blocking.
+// Remove this opt-out after verifying the segment passes validation without it.
+// See: https://nextjs.org/docs/app/guides/migrating-to-cache-components
+export const instant = false;
+
 export default function Home() {
 
 	return (

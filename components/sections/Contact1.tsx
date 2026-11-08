@@ -21,7 +21,7 @@ export default function Contact1() {
 								</div>
 								<div className="ps-3">
 									<span className="text-400 fs-5">Phone Number</span>
-									<h6 className="mb-0">+1-234-567-8901</h6>
+									<h6 className="mb-0">+2547 12746 218</h6>
 								</div>
 								<Link href="/tel:+1-234-567-8901" className="position-absolute top-0 start-0 w-100 h-100" />
 							</div>
@@ -31,7 +31,7 @@ export default function Contact1() {
 								</div>
 								<div className="ps-3">
 									<span className="text-400 fs-5">Email</span>
-									<h6 className="mb-0">contact@william.design</h6>
+									<h6 className="mb-0">hello@kimathi.net</h6>
 								</div>
 								<Link href="/mailto:someone@example.com" className="position-absolute top-0 start-0 w-100 h-100" />
 							</div>
@@ -41,7 +41,7 @@ export default function Contact1() {
 								</div>
 								<div className="ps-3">
 									<span className="text-400 fs-5">Skype</span>
-									<h6 className="mb-0">WilliamDesignUX</h6>
+									<h6 className="mb-0">kimathinet</h6>
 								</div>
 								<Link href="/skype:SKYPENAME?add" className="position-absolute top-0 start-0 w-100 h-100" />
 							</div>
@@ -51,7 +51,7 @@ export default function Contact1() {
 								</div>
 								<div className="ps-3">
 									<span className="text-400 fs-5">Address</span>
-									<h6 className="mb-0">0811 Erdman Prairie, Joaville CA</h6>
+									<h6 className="mb-0">Nairobi, Kenya</h6>
 								</div>
 								<Link href="/https://maps.google.com/maps?q=1st+avenue,New+York" className="position-absolute top-0 start-0 w-100 h-100" />
 							</div>
@@ -98,7 +98,7 @@ export default function Contact1() {
 				</div>
 				<div className="scroll-move-right position-absolute bottom-0 start-50 translate-middle-x bg-900 overflow-hidden">
 					<div className="wow img-custom-anim-top">
-						<h3 className="stroke fs-280 text-lowercase text-900 mb-0 lh-1">william.design</h3>
+						<h3 className="stroke fs-280 text-lowercase text-900 mb-0 lh-1">Kimathi.net</h3>
 					</div>
 				</div>
 			</section>
